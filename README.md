@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Saish Wadkar!
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/> <img src="https://img.shields.io/badge/TestNG-25A162?style=for-the-badge&logo=testng&logoColor=white"/>
+## 🧑‍💻 About Me
+
+I am an experienced Software Development Engineer in Test (SDET) with over 3.5 years of hands-on experience in designing, developing, and executing test plans, test cases, and test scripts for various applications. My skill set includes working with **Java**, **Python**, **Selenium**, **API Testing**, **REST**, **Postman**, **Git**, **GitHub**, **Pytest**, and **TestNG**.
+
+- 💼 Currently looking for job opportunities in the field of SDET.
+- 🎯 Passionate about automation testing and continuous learning.
+- 🤝 Open to collaborating on interesting projects.
 
 ---
 
@@ -15,16 +21,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-25A162?style=for-the-badge&logo=testng&logoColor=white)
-
----
-
-## 🧑‍💻 About Me
-
-I am an experienced Software Development Engineer in Test (SDET) with over 3.5 years of hands-on experience in designing, developing, and executing test plans, test cases, and test scripts for various applications. My skill set includes working with **Java**, **Python**, **Selenium**, **API Testing**, **REST**, **Postman**, **Git**, **GitHub**, **Pytest**, and **TestNG**.
-
-- 💼 Currently looking for job opportunities in the field of SDET.
-- 🎯 Passionate about automation testing and continuous learning.
-- 🤝 Open to collaborating on interesting projects.
 
 ---
 
