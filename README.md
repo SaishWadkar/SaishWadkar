@@ -37,7 +37,7 @@ I am an experienced Software Development Engineer in Test (SDET) with over 3.5 y
 - **Email**: saish.wadkar18@gmail.com
 
 ---
-
+<!--
 ## 📝 Latest Blog Posts
 
 - [Post Title 1](https://yourblog.com/post1)
@@ -55,7 +55,7 @@ I am an experienced Software Development Engineer in Test (SDET) with over 3.5 y
 - **Project**: [Project Name](https://linktoproject.com)
 
 ---
-
+-->
 ## 💡 Fun Fact
 
 - Did you know? I love learning new programming languages and frameworks!
